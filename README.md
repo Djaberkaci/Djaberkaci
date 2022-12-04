@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Djaber.
+🔭Junior Software Engineer...
+🌱I’m currently learning java and Spring Boot..
 
 <!--
 **Djaberkaci/Djaberkaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
